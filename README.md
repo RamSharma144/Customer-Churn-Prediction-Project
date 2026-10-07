@@ -43,8 +43,8 @@ customer-churn-prediction/
 
 ## How to Run
 ```bash
-git clone <your-repository-link>
-cd customer-churn-prediction
+git clone https://github.com/RamSharma144/Customer-Churn-Prediction-Project.git
+cd Customer-Churn-Prediction-Project
 pip install -r requirements.txt
 python src/train_model.py
 ```
